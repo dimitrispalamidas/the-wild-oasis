@@ -29,43 +29,45 @@ Password: 12345678
 
 ## Key Features
 
-• Users of the app are hotel employees. They need to be logged into the application to perform tasks
+• The app is designed for hotel employees, who need to be logged into the application to perform tasks.
 
-• New users can only be signed up inside the applications (to guarantee that only actual hotel employees can get accounts)
+• New users can only sign up inside the application, ensuring that only actual hotel employees can create accounts.
 
-• Users should be able to upload an avatar, and change their name and password
+• Users can upload an avatar and change their name and password.
 
-• App needs a table view with all cabins, showing the cabin photo, name, capacity, price, and current discount
+• The app includes a table view that displays all cabins, showing the cabin photo, name, capacity, price, and current discount.
 
-• Users should be able to update or delete a cabin, and to create new cabins (including uploading a photo)
+• Users can update or delete a cabin and create new cabins, including uploading a photo.
 
-• App needs a table view with all bookings, showing arrival and departure dates, status, and paid amount, as well as cabin and guest data
+• The app features a table view of all bookings, displaying arrival and departure dates, status, paid amount, as well as cabin and guest data.
 
-• The booking status can be "unconfirmed" (booked but not yet checked in), "checked in", or "checked out". The table should be filterable by this important status
+• Booking statuses include "unconfirmed" (booked but not yet checked in), "checked in," or "checked out." The table is filterable by booking status.
 
-• Other booking data includes: number of guests, number of nights, guest observations, whether they booked breakfast, breakfast price
+• Other booking details include the number of guests, number of nights, guest observations, and whether breakfast was booked (including breakfast price).
 
-• Users should be able to delete, check in, or check out a booking as the guest arrives
+• Users can delete a booking, check in, or check out a booking as the guest arrives.
 
-• Bookings may not have been paid yet on guest arrival. Therefore, on check in, users need to accept payment (outside the app), and then confirm that payment has been received (inside the app)
+• For unpaid bookings at check-in, users can confirm payment received (outside the app) and update the booking status inside the app.
 
-• On check in, the guest should have the ability to add breakfast for the entire stay, if they hadn't already
+• During check-in, guests can add breakfast for their entire stay if it wasn't already included.
 
-• Guest data should contain: full name, email, national ID, nationality, and a country flag for easy identification
+• Guest data includes full name, email, national ID, nationality, and a country flag for easy identification.
 
-• The initial app screen should be a dashboard, to display important information for the last 7, 30, or 90 days:
+• The initial app screen is a dashboard that displays important information for the last 7, 30, or 90 days:
 
-• A list of guests checking in and out on the current day. Users should be able to perform these tasks from here
+• A list of guests checking in and out on the current day, with the ability to perform these tasks directly from the dashboard.
 
-• Statistics on recent bookings, sales, check ins, and occupancy rate
+• Statistics on recent bookings, sales, check-ins, and occupancy rates.
 
-• A chart showing all daily hotel sales, showing both "total" sales and "extras" sales (only breakfast at the moment)
+• A chart showing daily hotel sales, including both "total" sales and "extras" sales (currently breakfast).
 
-• A chart showing statistics on stay durations, as this is an important metric for the hotel
+• A chart showing statistics on stay durations, an important metric for the hotel.
 
-• Users should be able to define a few application-wide settings: breakfast price, min and max nights/booking, max guests/booking
+• Users can define application-wide settings, such as breakfast price, minimum and maximum nights per booking, and maximum guests per booking.
 
-• Dark mode
+• The app supports dark mode.
+
+
 
 ## My process
 
